@@ -2,6 +2,7 @@
   display: none;
 }
 
+<<<<<<< HEAD
 #wall div#tag-2 {
   display: none;
 }
@@ -26,3 +27,16 @@ body div#wall div.parent div:first-child > div#tag-7.slick {
  display: none; 
 }
 
+=======
+#tag-2 {
+  display: none;
+}
+
+#tag-3 {
+  display: none;
+}
+
+.parent {
+  display: none;
+}
+>>>>>>> 2a82c9a7ae1871764e09ab98ffdc830b1b98e1b2
